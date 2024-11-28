@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333379804420",
+    "project_id": "helpfit-f29cd",
+    "storage_bucket": "helpfit-f29cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333379804420:android:dd074e7a229205b2180451",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40RcsSqxJvSbraP_xZRJ3D94DRGiVGxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333379804420:android:58315ec0bcbf4d0a180451",
+        "android_client_info": {
+          "package_name": "com.example.hep_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40RcsSqxJvSbraP_xZRJ3D94DRGiVGxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
