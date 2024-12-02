@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hep_fit">
+    package="br.com.hep_fit">
     <application
         android:label="Help Fit"
         android:icon="@mipmap/ic_launcher">
